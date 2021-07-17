@@ -1,0 +1,5 @@
+Total Profit_Losses is:38382578.0 
+Total Number of Months is: 86 
+Average is: -2315.12 
+Greates Increase is: -2196167.0 
+Greatest Decrease is: 1926159.0
